@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 function multiply 
 a*b
+=======
+function 
+we need conflict
+>>>>>>> ca0ab1d05987b643388a7cbe4d5e87a4ac792992
